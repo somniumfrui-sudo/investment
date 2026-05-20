@@ -1,9 +1,0 @@
-# Streamlit Cloud 用（torch なし＝メモリ節約。感情分析は TextBlob にフォールバック）
-streamlit
-yfinance
-textblob
-scikit-learn
-backtrader
-matplotlib
-numpy
-pandas
