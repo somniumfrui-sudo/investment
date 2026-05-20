@@ -4,13 +4,18 @@
 
 ## 起動
 
+**いちばん簡単**: `investment_tool` フォルダの **`start.bat`** をダブルクリック
+
+または PowerShell:
+
 ```powershell
 cd c:\investment\investment_tool
-pip install -r requirements.txt
-streamlit run main.py
+python -m streamlit run main.py
 ```
 
-ブラウザで **http://localhost:8501** が開きます。
+> `streamlit run` だけだと「コマンドが見つからない」と出ることがあります。必ず **`python -m streamlit`** を使ってください。
+
+ブラウザで **http://localhost:8501** を開きます（自動で開かない場合は手入力）。
 
 株価取得の確認:
 
