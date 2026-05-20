@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+
+# ローカル学習・キャッシュ
+*.pkl
+.cache/
+models/
+
+# 取引ジャーナル（個人データ）
+investment_tool/journal.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+streamlit
+yfinance
+transformers
+torch
+textblob
+scikit-learn
+backtrader
+matplotlib

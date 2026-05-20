@@ -1,0 +1,9 @@
+streamlit
+yfinance
+# pandas-ta は Python 3.14 では numba 非対応のため未使用。indicators.py で同等計算。
+transformers
+torch
+textblob
+scikit-learn
+backtrader
+matplotlib
